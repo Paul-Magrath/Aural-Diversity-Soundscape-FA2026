@@ -177,7 +177,7 @@ ISO 12913-2:2018. *Acoustics — Soundscape — Part 2: Data collection and repo
 
 Kronlachner, M. (2014). *AmbiX ambisonic plugin suite (v0.2.8)* [VST/AU plugins]. Available at: http://www.matthiaskronlachner.com/?p=2015
 
-Mitchell, A., Aletta, F., Oberman, T., and Kang, J. (2024). Soundscapy: A Python package for soundscape assessment. *Journal of Open Source Software*, 9(94), 6100. https://doi.org/10.21105/joss.06100
+Mitchell, A., Aletta, F., and Kang, J. (2022). How to analyse and represent quantitative soundscape data. *JASA Express Letters*, 2, 037201. https://doi.org/10.1121/10.0009794
 
 Stevens, F., Murphy, D. T., and Smith, S. L. (2017). Ecological validity of stereo UHJ soundscape reproduction. In *Proceedings of the 142nd Audio Engineering Society Convention*, Berlin, Germany. AES Convention Paper 9765.
 
